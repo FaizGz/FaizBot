@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6285713770474@s.whatsapp.net",
+    "ownerName": "FaizGanz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Faiz Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "FAIZ-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "faizz",
+    "txtDonasi": "GOPAY : 085157226383\nTrakteer : https://trakteer.id/aqulzz\nSaweeria : https://saweria.co/aqulzz\nPulsa : 085713770474",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
